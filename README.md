@@ -35,4 +35,9 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/yourusername)
 
 [ссилка на мій сайт ](https://github.com/Tima20/MyReposit)
+
+Сьогодні я навчився:
+1) працювати з макдавн
+2) з всякими ссилками
+3) і ще я створив свій рідмі
 ---
