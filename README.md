@@ -34,5 +34,5 @@
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/yourusername)
 
-![ссилка на мій сайт ](https://github.com/Tima20/MyReposit)
+[ссилка на мій сайт ](https://github.com/Tima20/MyReposit)
 ---
